@@ -9,3 +9,6 @@ robot.txt
 
 Branch
 -git checkout -b project-structure  :creates new braanch project-structure is branch name
+
+mongodb atlas 
+mongodb+srv://shubhangibhapkar:Shubhangi_7620@zerodhaclonecluster.4nklbhm.mongodb.net/?retryWrites=true&w=majority&appName=ZerodhaCloneCluster
