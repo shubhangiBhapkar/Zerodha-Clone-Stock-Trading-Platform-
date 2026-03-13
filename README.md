@@ -40,20 +40,22 @@ A comprehensive full-stack stock trading platform clone inspired by Zerodha. Thi
    git clone [https://github.com/shubhangiBhapkar/Zerodha-Clone-Stock-Trading-Platform-.git](https://github.com/shubhangiBhapkar/Zerodha-Clone-Stock-Trading-Platform-.git)
    cd Zerodha-Clone-Stock-Trading-Platform-
 
-2.**Setup Backend:**
-cd backend
+2. **Setup Backend:**
+```cd backend
 npm install
 npm start
+```
 
-3.**Setup Frontend:**
-cd ../frontend
+3. **Setup Frontend:**
+```cd ../frontend
 npm install
 npm start
-
+```
 4.**Setup Dashboard:**
-cd ../dashboard
+```cd ../dashboard
 npm install
 npm start
+```
 
 ##📸 Screenshots
 
