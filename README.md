@@ -32,7 +32,7 @@ A comprehensive full-stack stock trading platform clone inspired by Zerodha. Thi
 ├── dashboard/    # React-based user trading interface
 ├── frontend/     # Main landing page and marketing site
 └── README.md
-
+```
 ##⚙️ Installation & Setup
 *1.Clone the repository:
 git clone [https://github.com/shubhangiBhapkar/Zerodha-Clone-Stock-Trading-Platform-.git](https://github.com/shubhangiBhapkar/Zerodha-Clone-Stock-Trading-Platform-.git)
